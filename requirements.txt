@@ -1,0 +1,38 @@
+# Core ML / DL
+numpy
+pandas
+scikit-learn
+torch
+torchvision
+
+# Configuration
+hydra-core
+
+# Experiment Tracking
+mlflow
+wandb
+
+# Hyperparameter Tuning
+optuna
+
+# Data Validation
+great_expectations
+pydantic
+
+# Versioning
+dvc[s3]          # Use [gs] or [azure] for different remotes
+
+# Serving
+fastapi
+uvicorn
+
+# Monitoring
+prometheus-client
+evidently
+
+# Testing
+pytest
+
+# Utilities
+tqdm
+python-dotenv
